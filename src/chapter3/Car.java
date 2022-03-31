@@ -1,4 +1,4 @@
-package chaper3;
+package chapter3;
 
 public class Car {
     // 변수 지정으로 클래스 "상태" 정함

@@ -1,4 +1,4 @@
-package chaper3;
+package chapter3;
 
 public class CarManager {
     public static void main(String args[]) {
